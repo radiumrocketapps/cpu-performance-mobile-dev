@@ -14,7 +14,7 @@ The next steps should work only on ANDROID 📱.
 
 [Ionic Framework John Conway's Game of Life implementation](https://github.com/radiumrocketapps/Ionic-Mobile-Performance)
 
-[PWA John Conway's Game of Life implementation]()
+[PWA John Conway's Game of Life implementation](https://github.com/radiumrocketapps/PWA-Mobile-Performance)
 
 2) Then install the dependencies of each project and generate the APKs.
 
@@ -37,7 +37,7 @@ If you don't find your device listed, please check if the Developer mode is acti
 
 5) Clone and install the dependencies of the following repo.
 
-[Read CPU script]()
+[Read CPU script](https://github.com/radiumrocketapps/read-cpu-script)
 
 6) Go to the Read CPU script directory and run
 
